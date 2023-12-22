@@ -8,7 +8,7 @@ This landing page project for the National Art Museum of Ukraine showcases respo
 
 - **Performance Metrics:**
     ![Lighthouse Scores](https://imgdb.net/storage/uploads/f7b59a6cdaa643d9d0d987d8a6bf1d252ac8b1bda55097e37a27a984781b09a2.png)
-    [Test Performance Here](https://pagespeed.web.dev/analysis/https-techamster-github-io-NAMU-landing/lq0fjdhrh7?form_factor=desktop)
+    - [Test Performance Here](https://pagespeed.web.dev/analysis/https-techamster-github-io-NAMU-landing/lq0fjdhrh7?form_factor=desktop)
 - **Technologies Used:** HTML5, SCSS, JavaScript
 - **Methodology:** BEM (Block Element Modifier)
 - **Optimization:**
