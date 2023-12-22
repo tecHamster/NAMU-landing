@@ -1,6 +1,6 @@
-@font-face {
-  font-family: "Roboto";
-  src: url("../fonts/Roboto-Regular-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
+@include font-face(Playfair Display, PlayfairDisplay-Bold, 700, normal);
+@include font-face(Raleway, Raleway-ExtraLight, 200, normal);
+@include font-face(Raleway, Raleway-Regular, 400, normal);
+@include font-face(Raleway, Raleway-Medium, 500, normal);
+@include font-face(Raleway, Raleway-SemiBold, 600, normal);
+@include font-face(Raleway, Raleway-Bold, 700, normal);
